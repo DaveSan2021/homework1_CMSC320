@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hat is the difference between a merge and a rebase?
+What is the difference between a merge and a rebase?
 
 Both are used to integrate changes across branches. The difference is how each does it. A merge creates 
 a new "merge commit" to branches outside main, helping tie together the histories of the branches. 
